@@ -1,6 +1,7 @@
 # Sumber-Kiamat-Digital-itu-Bernama-K00M1nF000.
 
 Hai, kalau kalian mau nge-recreate karya ini silahkan aja yaa. Aku bakal jabarin step2nya kalau mau coba2 hihi.
+Karya bisa diakses di https://youtu.be/K2UY7L6n_B8
 
 Produksi Bunyi
 1. Download pure data terlebih dahulu (https://puredata.info/)
